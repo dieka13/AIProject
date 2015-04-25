@@ -18,6 +18,7 @@ public class Ann {
         // TODO code application logic here
 		System.out.println("Hello ANN");
 		System.out.println("Hello ANN disuruh wira");
+		System.out.println("Hello ANN disuruh tedy");
     }
     
 }
