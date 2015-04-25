@@ -1,4 +1,4 @@
-package com.ann.function;
+package com.ann.method;
 
 public class testing {
 
