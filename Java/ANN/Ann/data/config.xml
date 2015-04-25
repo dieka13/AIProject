@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<db_name>mysql</db_name>
+	<table_name>db</table_name>
+	<url>localhost</url>
+	<port>3360</port>
+	<user>root</user>
+	<pass></pass>
+	<driver>org.gjt.mm.mysql.Driver</driver>
+</config>
